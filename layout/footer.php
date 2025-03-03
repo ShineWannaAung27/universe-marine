@@ -38,27 +38,27 @@
                 LINKS
             </p>
             <div class="mb-2">
-                <a href="" class="link-offset-2 link-underline link-underline-opacity-0 pe-4" style="color: #767676;">
+                <a href="index.php" class="link-offset-2 link-underline link-underline-opacity-0 pe-4" style="color: #767676;">
                     Home
                 </a>
             </div>
             <div class="mb-2">
-                <a href="" class="link-offset-2 link-underline link-underline-opacity-0 " style="color: #767676;">
+                <a href="about-us.php" class="link-offset-2 link-underline link-underline-opacity-0 " style="color: #767676;">
                     About Us
                 </a>
             </div>
             <div class="mb-2">
-                <a href="" class="link-offset-2 link-underline link-underline-opacity-0 pe-1" style="color: #767676;">
+                <a href="services.php" class="link-offset-2 link-underline link-underline-opacity-0 pe-1" style="color: #767676;">
                     Services
                 </a>
             </div>
             <div class="mb-2">
-                <a href="" class="link-offset-2 link-underline link-underline-opacity-0 pe-3" style="color: #767676;">
+                <a href="gallery.php" class="link-offset-2 link-underline link-underline-opacity-0 pe-3" style="color: #767676;">
                     Gallery
                 </a>
             </div>
             <div class="mb-2">
-                <a href="" class="link-offset-2 link-underline link-underline-opacity-0 ps-3" style="color: #767676;">
+                <a href="contact-us.php" class="link-offset-2 link-underline link-underline-opacity-0 ps-3" style="color: #767676;">
                     Contact Us
                 </a>
             </div>
