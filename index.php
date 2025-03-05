@@ -122,7 +122,10 @@
         </div>
     </div>
     <div class="d-flex justify-content-center mb-4">
-        <button type="button" id="submit-button" class="btn rounded-0 submit-button" style="padding: 15px 30px;">Read More <img src="assets/images/arrow-up-right.png" alt=""></button>
+        <button type="button" id="submit-button" class="btn rounded-0 submit-button"
+            style="padding: 15px 30px;" onclick="window.location.href='gallery.php';">
+            Read More <img src="assets/images/arrow-up-right.png" alt="">
+        </button>
     </div>
 </div>
 <?php include 'layout/footer.php'; ?>

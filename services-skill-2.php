@@ -31,7 +31,7 @@ include 'layout/layout.php';
 
     <div class="mb-5 overflow-auto text-center">
         <a href="assets/images/service-skill2.png" target="_blank" rel="noopener noreferrer">
-            <img src="assets/images/service-skill2.png" alt="" width="80%" height="80%">
+            <img src="assets/images/service-skill2.png" class="service-table" alt="">
         </a>
     </div>
 
