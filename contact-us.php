@@ -4,7 +4,7 @@ include 'layout/header.php';
 include 'layout/layout.php';
 ?>
 
-<div class="container border-bottom" style="padding: 0px 70px;">
+<div class="container border-bottom container-padding" >
     <div class="row my-5 grid column-gap-6 border-bottom">
 
         <div class="col-12 col-lg-6">

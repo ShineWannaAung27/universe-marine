@@ -10,6 +10,56 @@
     font-weight: bold;
 }
 
+.header-image{
+    width: 100%;
+}
+
+.header-about{
+    color: #1B378C;font-weight: 600;font-size: 26px;width: 50%;
+}
+
+.carousel-inner {
+        background-color: #000; /* Set background to black to match images */
+    }
+
+    /* Zoom and fade effect */
+    .carousel-item {
+        position: absolute;
+        width: 100%;
+        opacity: 0;
+        transition: opacity 1.5s ease-in-out;
+    }
+
+    /* Keep active item visible */
+    .carousel-item.active {
+        opacity: 1;
+        position: relative;
+    }
+
+    /* Zoom effect */
+    .carousel-item .zoom-fade {
+        transition: transform 5s ease-in-out, opacity 1.5s ease-in-out;
+    }
+
+    .carousel-item.active .zoom-fade {
+        transform: scale(1.1);
+        opacity: 1;
+    }
+
+    .carousel-item .zoom-fade {
+        transform: scale(1);
+        opacity: 0.8;
+    }
+
+@media(max-width: 768px){
+    .header-image{
+        width: 60%;
+    }
+    .header-about{
+        width: 80%;
+    }
+}
+
 .image-container {
     position: relative;
     display: inline-block;
@@ -69,6 +119,61 @@
         height: 16px !important;
         font-family: 5px !important;
     }
+}
+
+.home-service {
+    background-image: url('../../assets/images/homebackground.png');
+    padding: 5rem 10rem; /* Reduce padding to prevent overflow */
+    max-width: 100%; /* Ensure it doesn't exceed screen width */
+    overflow-x: hidden;
+}
+
+.home-service-card {
+    padding-top: 3rem;
+    min-height: 18rem;
+    font-weight: 400;
+    font-size: 21px;
+    color: #404040;
+    transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+.home-service-card svg {
+    transition: fill 0.5s ease-in-out;
+}
+
+.home-service-card:hover {
+    background-color: #0F9FBF !important;
+    color: #FFFFFF !important;
+}
+
+.home-service-card:hover svg {
+    fill: #FFFFFF;
+}  
+.home-margin{
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+@media(max-width: 768px){
+    .home-service {
+        padding: 5rem 3rem; /* Reduce padding to prevent overflow */
+    }
+    .home-margin{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
+
+.table {
+    border: none !important;
+}
+.table th,
+.table td {
+    border: none !important;
+}
+
+.home-padding{
+    padding-left: 8rem;
+    padding-right: 8rem;
 }
 
 .indicator-number {
@@ -249,14 +354,6 @@
     color: #404040;
     transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
 }
-#btn-click {
-        transition: transform 0.3s ease-in-out;
-    }
-    
-.rotated i {
-        transform: rotate(180deg);
-        transition: transform 0.3s ease-in-out;
-    }
 
 .service-card svg {
     transition: fill 0.5s ease-in-out;
@@ -270,6 +367,17 @@
 .service-card:hover svg {
     fill: #FFFFFF;
 }  
+
+#btn-click {
+        transition: transform 0.3s ease-in-out;
+    }
+    
+.rotated i {
+        transform: rotate(180deg);
+        transition: transform 0.3s ease-in-out;
+    }
+
+
 
 .alphabet-list {
             list-style: none;
@@ -344,3 +452,20 @@ underline-service {
 .navbar-toggler:focus{
     box-shadow:none !important;
 }
+
+/* tooltips */
+.custom-tooltip {
+  --bs-tooltip-bg: white;
+  --bs-tooltip-color: #595959;
+}
+.custom-tooltip:hover{
+    --bs-tooltip-color: #126DA6;
+}
+
+.service-img img {
+    transition: fill 0.5s ease-in-out;
+}
+.service-img:hover img {
+    content: url("../images/crewW.png"); /* Change image on hover */
+}
+

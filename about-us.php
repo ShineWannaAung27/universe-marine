@@ -4,7 +4,7 @@ include 'layout/header.php';
 include 'layout/layout.php';
 ?>
 
-<div class="container border-bottom container-padding" >
+<div class="container border-bottom container-padding">
     <div class="row my-5 grid column-gap-6 border-bottom">
         <div class="col-12 col-lg-6">
             <p class="mb-0" style="color: #8C8C8C;font-weight: 500;font-size: 20px;">Summary of</p>
@@ -47,10 +47,10 @@ include 'layout/layout.php';
     <!-- Nav Tabs -->
     <ul class="d-flex justify-content-center nav nav-tabs" id="myTab" role="tablist">
         <li class="nav-item" role="presentation">
-            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab">Home</button>
+            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab">Object</button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#object" type="button" role="tab">Object</button>
+            <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#object" type="button" role="tab">Policy</button>
         </li>
 
     </ul>
@@ -58,7 +58,7 @@ include 'layout/layout.php';
     <!-- Tab Content -->
     <div class="tab-content mt-3" id="myTabContent">
         <div class="tab-pane fade show active py-3 mt-4 my-5" id="home" role="tabpanel" style="font-weight: 400;font-size: 16px;color: #595959;">
-            <ol class="ps-3">
+            <ol class="ps-3 text-lowercase">
                 <li>
                     TO  ENSURE  SAFE  OPERATION  WITH  ZERO-ACCIDENT
                 </li>
@@ -69,11 +69,11 @@ include 'layout/layout.php';
                     QUALITY  ASSURANCE
                 </li>
             </ol>
-            <p>
+            <p class="text-lowercase">
                 COMPANY  SHALL, ON THE  BASIS  OF  THESE  OBJECTIVE, PROMOTE THE BENEFIT OF COMPANY AND PERSONNEL  AS  A WHOLE  BY  ACHIEVING  THE  CUSTOMERS’  SATISFACTION  ON  SAFETY  AND  QUALITY.</p>
         </div>
         <div class="tab-pane fade py-3 mt-4 my-5" id="object" role="tabpanel" style="font-weight: 400;font-size: 16px;color: #595959;line-height: 30px;">
-            <ol class="ps-3">
+            <ol class="ps-3 text-lowercase">
                 <li>
                     THE  FOLLOWING ARE  DESCRIBED  AS  OUR  POLICY  IN  ORDER  TO  ACHIEVE  THE  GOAL  OF  THE  COMPANY.
                 </li>

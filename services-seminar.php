@@ -101,7 +101,7 @@ include 'layout/layout.php';
 
     </div>
     <div class="my-5 text-center pb-1" style="position: relative;">
-        <p style="font-size: 26px;color: #0F9FBF;margin-bottom: 0px;font-weight: 400;" class="underline-service d-flex justify-content-center align-items-center text-uppercase">
+        <p style="font-size: 26px;color: #0F9FBF;margin-bottom: 0px;font-weight: 400;" class="custom-heading underline-service d-flex justify-content-center align-items-center text-uppercase">
             Pre-Departure Orientation Seminar Completion Certificate
         </p>
     </div>

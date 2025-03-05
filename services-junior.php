@@ -6,7 +6,7 @@ include 'layout/layout.php';
 
 <div class="container border-bottom container-padding">
     <div class="my-5 text-center pb-1" style="position: relative;">
-        <p style="font-size: 26px;color: #0F9FBF;margin-bottom: 0px;font-weight: 400;" class="underline-service d-flex justify-content-center align-items-center text-uppercase">
+        <p style="font-size: 26px;color: #0F9FBF;margin-bottom: 0px;font-weight: 400;" class="custom-heading underline-service d-flex justify-content-center align-items-center text-uppercase">
             Syllabus For Junior and Engineering
         </p>
     </div>

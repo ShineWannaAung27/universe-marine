@@ -1,12 +1,13 @@
 <?php
 $title = "Services";
+$subtitle = "";
 include 'layout/header.php';
 include 'layout/layout.php';
 ?>
 
 <div class="container border-bottom container-padding">
     <div class="my-5 text-center pb-1" style="position: relative;">
-        <p style="font-size: 26px;color: #0F9FBF;margin-bottom: 0px;font-weight: 400;" class="underline-service d-flex justify-content-center align-items-center text-uppercase">
+        <p style="font-size: 26px;color: #0F9FBF;margin-bottom: 0px;font-weight: 400;" class="custom-heading underline-service d-flex justify-content-center align-items-center text-uppercase">
             Syllabus For Deck Department
         </p>
     </div>
@@ -215,7 +216,13 @@ include 'layout/layout.php';
                         <span>Computer Knowledge</span>
                     </td>
                 </tr>
-                
+                <tr>
+                    <td class="col">
+                        <span class=" px-3 me-3"></span>
+                        <span></span>
+                    </td>
+                </tr>
+
             </table>
         </div>
     </div>
