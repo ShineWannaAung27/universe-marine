@@ -31,7 +31,7 @@
             <img class="img-fluid" src="assets/images/home-img1.png" alt="">
         </div>
         <div class="col-12 col-lg-6">
-            <p class="mb-0" style="color: #0F9FBF;font-weight: 500;font-size: 20px;"><i class="fa-solid fa-anchor me-3 mb-3"></i>About of Company</p>
+            <p class="mb-0" style="color: #0F9FBF;font-weight: 500;font-size: 20px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2" style="width: 4%;"></i>About of Company</p>
             <p class="mb-3 text-uppercase header-about custom-heading" style="">Find and Book
                 Your Dream</p>
             <p>Universe Marine Myanmar Co.,Ltd has founded in 2005.</p>
@@ -50,7 +50,7 @@
     </div>
     <div class="row grid column-gap-6 index-margin home-service">
         <div class="col-md-6">
-            <p class="mb-0" style="color: #0F9FBF;font-weight: 500;font-size: 20px;"><i class="fa-solid fa-anchor me-3 mb-3"></i>Service of Company</p>
+            <p class="mb-0" style="color: #0F9FBF;font-weight: 500;font-size: 20px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2" style="width: 4%;"></i>Service of Company</p>
             <p class="mb-3 text-uppercase custom-heading" style="color: #1B378C;font-weight: 600;font-size: 26px;width: 50%;">Know What You're Looking for? </p>
             <div style="color: #595959;font-weight: 400;font-size: 17px;line-height: 30px;">
                 <p>
@@ -99,7 +99,7 @@
         </div>
     </div>
     <div class="home-margin container-padding d-flex justify-content-center index-margin">
-        <p class="mb-0" style="color: #0F9FBF;font-weight: 500;font-size: 20px;"><i class="fa-solid fa-anchor me-3 mb-3"></i>Gallery of Company</p>
+        <p class="mb-0" style="color: #0F9FBF;font-weight: 500;font-size: 20px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2" style="width: 4%;"></i>Gallery of Company</p>
     </div>
     <div class="home-margin container-padding row my-md-5 grid column-gap-6">
         <div class="col-md-4">
