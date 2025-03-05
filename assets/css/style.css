@@ -485,3 +485,11 @@ underline-service {
     }
 }
 
+
+.service-card img {
+    transition: filter 0.5s ease; 
+}
+
+.service-card:hover img {
+    filter: brightness(0) invert(1);
+}
