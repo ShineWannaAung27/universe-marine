@@ -1,5 +1,7 @@
 <?php
 $title = "Services";
+$subtitle = "Pay Skills For Various Vessel";
+
 include 'layout/header.php';
 include 'layout/layout.php';
 ?>

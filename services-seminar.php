@@ -1,5 +1,7 @@
 <?php
 $title = "Services";
+$subtitle = "Pre-Departure Orientation Seminar Completion Certificate";
+
 include 'layout/header.php';
 include 'layout/layout.php';
 ?>

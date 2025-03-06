@@ -27,47 +27,67 @@
 </head>
 
 <body>
-    <div class="sticky-top">
-        <div class="d-flex justify-content-around py-1" style="background-color: white;">
+    <div class="sticky-top" style="background-color: white;">
+        <div class="container d-flex justify-content-between py-1">
             <div class="d-flex align-items-center">
                 <img class="header-image" src="assets/images/icon.png" alt="">
                 <img src="assets/images/name.png" alt="" class="ms-1 header-image">
 
             </div>
+            <button class=" navbar-toggler-top" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+                </svg>
+            </button>
             <div class="d-none d-lg-flex align-items-center">
                 <a href="https://www.facebook.com/universe.mtravelstour" target="_blank">
                     <img class="mx-2" src="assets/images/facebook.png" alt="">
                 </a>
-                <a href="#" data-bs-toggle="tooltip" data-bs-custom-class="custom-tooltip"
-                    data-bs-placement="bottom" title="<strong>+95-9-5075165</strong><br><strong>+95-9-5140571</strong>" data-bs-html="true">
+                <div class="header-tooltip">
                     <img class="mx-2 ms-1" src="assets/images/line.png" alt="">
-                </a>
+                    <div class="tooltiptext shadow p-2">
+                        <a href="https://web.whatsapp.com/send/?phone=9595075165" target="_blank">
+                            <span>+95-9-5075165</span>
+                        </a>
+                        <a href="https://web.whatsapp.com/send/?phone=9595140571" target="_blank">
+                            <span>+95-9-5140571</span>
+                        </a>
+                    </div>
+                </div>
 
-                <a href="#" data-bs-toggle="tooltip" data-bs-custom-class="custom-tooltip"
-                    data-bs-placement="bottom" title="<strong>+95-9-5075165</strong><br><strong>+95-9-5140571</strong>" data-bs-html="true">
+                <div class="header-tooltip">
                     <img class="mx-2" src="assets/images/wechat.png" alt="">
-                </a>
-                <a href="https://join.skype.com/invite/sOqqdh5J35zs" target="_blank">
+                    <div class="tooltiptext shadow p-2">
+                        <a href="https://apps.microsoft.com/send/?phone=9595075165" target="_blank">
+                            <span>+95-9-5075165</span>
+                        </a>
+                        <a href="https://apps.microsoft.com/send/?phone=9595140571" target="_blank">
+                            <span>+95-9-5140571</span>
+                        </a>
+                    </div>
+                </div>
+
+                <a href=" https://join.skype.com/invite/sOqqdh5J35zs" target="_blank">
                     <img class="mx-2" src="assets/images/skype.png" alt="" class="ms-1">
 
                 </a>
 
             </div>
         </div>
-        <nav class="navbar navbar-expand-lg navbar-light justify-content-center p-1" role="navigation" style="background-color: #1B378C; ">
+        <nav class="navbar navbar-expand-lg navbar-light justify-content-center p-0" role="navigation" style="background-color: #1B378C; ">
             <div class="text-center">
                 <!-- Brand and toggle get grouped for better mobile display -->
-                <button class=" navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <!-- <button class=" navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
-                </button>
+                </button> -->
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse " id="navbarNavDropdown" ">
-                    <ul class=" navbar-nav me-auto mb-2 mb-lg-0 ml-5 " ">
-                    <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="index.php"> &nbsp;&nbsp;Home</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="about-us.php"> &nbsp;&nbsp;About Us</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="services.php"> &nbsp;&nbsp;services</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="gallery.php"> &nbsp;&nbsp;Gallery</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="contact-us.php"> &nbsp;&nbsp;Contact Us</a></li>
+                <div class="collapse navbar-collapse " id="navbarNavDropdown">
+                    <ul class=" navbar-nav me-auto mb-2 mb-lg-0 ml-5 text-uppercase">
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="index.php"> &nbsp;&nbsp;Home</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="about-us.php"> &nbsp;&nbsp;About Us</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="services.php"> &nbsp;&nbsp;services</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="gallery.php"> &nbsp;&nbsp;Gallery</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="contact-us.php"> &nbsp;&nbsp;Contact Us</a></li>
                     </ul>
                 </div>
             </div>

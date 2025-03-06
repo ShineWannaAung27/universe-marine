@@ -2,7 +2,7 @@
     <div class="text-center">
         <div class="image-container">
             <img src="assets/images/background.png" alt="Background">
-            <div class="text-overlay d-flex justify-content-between ">
+            <div class="text-overlay d-flex justify-content-between container">
                 <p style="font-size: 40px;color: #1B378C;margin-bottom: 0px;font-weight: 400;" class="align-self-center underline-container d-flex align-items-center text-uppercase custom-heading">
                     <?php echo $title; ?>
                 </p>

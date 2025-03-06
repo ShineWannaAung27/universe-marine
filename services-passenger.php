@@ -1,5 +1,7 @@
 <?php
 $title = "Services";
+$subtitle = "Syllabus For Gallery Rating";
+
 include 'layout/header.php';
 include 'layout/layout.php';
 ?>

@@ -1,6 +1,6 @@
 <?php
 $title = "Services";
-$subtitle = "";
+$subtitle = "Syllabus For Deck Department";
 include 'layout/header.php';
 include 'layout/layout.php';
 ?>
@@ -14,7 +14,7 @@ include 'layout/layout.php';
     <div class="row mb-5">
         <div class="col-lg-6 col-12 p-0">
             <table class="table table-striped mb-0">
-                <tr style="border-top: 10px solid #0F9FBF">
+                <tr class="service-table-header">
                     <td class="col">
                         <span class=" px-3 me-3">1</span>
                         <span>Hand lead-Line</span>
@@ -120,7 +120,7 @@ include 'layout/layout.php';
         </div>
         <div class="col-lg-6 col-12 p-0">
             <table class="table table-striped mb-0">
-                <tr style="border-top: 10px solid #0F9FBF">
+                <tr class="service-table-header-second">
                     <td class="col">
                         <span class=" px-3 me-3">18</span>
                         <span>Block</span>

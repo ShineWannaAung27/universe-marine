@@ -8,9 +8,9 @@ include 'layout/layout.php';
     <div class="row my-5 grid column-gap-6 border-bottom">
         <div class="col-12 col-lg-6">
             <p class="mb-0" style="color: #8C8C8C;font-weight: 500;font-size: 20px;">Summary of</p>
-            <p class="mb-3 text-uppercase" style="color: #0F9FBF;font-weight: 400;font-size: 26px;">Our Company</p>
+            <p class="mb-3 text-uppercase custom-heading" style="color: #0F9FBF;font-weight: 400;font-size: 26px;">Our Company</p>
             <div style="color: #595959;font-weight: 400;font-size: 17px;line-height: 30px;">
-                <p class="mb-3" style="text-align: justify;">
+                <p class="mb-3 " style="text-align: justify;">
                     Our company has founded in 2005. It has been registered, verified by SEAFARERS DIVISION (D.M.A), YANGON, MYANMAR  and  CLASS BV . Also It has been recognized by S.D (DMA) & CLASS ABS as SRPS  Provider since 21st November’ 2013. We have changed the classification society from class BV to ABS on 24th, April, 2018 for verification of quality management system (ISO 9001-2015) and SRPS. We have recruited Seamen in various ranks and arranged to be employed on board with ( 3 )overseas shipping companies currently and they (Our Principals) are as follows:
                 </p>
                 <ol class="ps-3 text-lowercase">
@@ -24,7 +24,7 @@ include 'layout/layout.php';
             <img class="img-fluid" src="assets/images/about-us-1.png" alt="">
         </div>
     </div>
-    <div class="row my-5 grid column-gap-6 border-bottom">
+    <div class="row my-5 grid column-gap-6 border-bottom pb-5">
         <div class="col-12 col-lg-6">
             <img class="img-fluid" src="assets/images/about-us-2.png" alt="">
         </div>
@@ -45,12 +45,12 @@ include 'layout/layout.php';
     </div>
 
     <!-- Nav Tabs -->
-    <ul class="d-flex justify-content-center nav nav-tabs" id="myTab" role="tablist">
+    <ul class="d-flex justify-content-center nav nav-tabs about-us custom-heading" id="myTab" role="tablist" style="border-bottom: 0px;">
         <li class="nav-item" role="presentation">
-            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab">Object</button>
+            <button class="nav-link active text-uppercase" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab">Object</button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#object" type="button" role="tab">Policy</button>
+            <button class="nav-link text-uppercase" id="profile-tab" data-bs-toggle="tab" data-bs-target="#object" type="button" role="tab">Policy</button>
         </li>
 
     </ul>

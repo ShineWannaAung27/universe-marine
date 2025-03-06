@@ -12,26 +12,26 @@ include 'layout/layout.php';
             Certification of MLC 2006
         </p>
     </div>
-    <div class="row g-3  my-5">
-        <div class="col-md-4 col-sm-6">
+    <div class="row g-3 mt-5">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c1.png" class="img-fluid" alt="Certificate 1">
         </div>
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c2.png" class="img-fluid" alt="Certificate 2">
         </div>
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c3.png" class="img-fluid" alt="Certificate 2">
         </div>
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c4.png" class="img-fluid" alt="Certificate 2">
         </div>
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c5.png" class="img-fluid" alt="Certificate 2">
         </div>
-        <div class="col-md-4 col-sm-6 mx-auto">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c6.png" class="img-fluid" alt="Certificate 2">
         </div>
-        <div class="col-md-4 col-sm-6 mx-auto">
+        <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c7.png" class="img-fluid" alt="Certificate 2">
         </div>
     </div>
