@@ -58,10 +58,10 @@
                 <div class="header-tooltip">
                     <img class="mx-2" src="assets/images/wechat.png" alt="">
                     <div class="tooltiptext shadow p-2">
-                        <a href="https://apps.microsoft.com/send/?phone=9595075165" target="_blank">
+                        <a href="https://weixin://contacts/profile/9595075165" target="_blank">
                             <span>+95-9-5075165</span>
                         </a>
-                        <a href="https://apps.microsoft.com/send/?phone=9595140571" target="_blank">
+                        <a href="https://weixin://contacts/profile/9595140571" target="_blank">
                             <span>+95-9-5140571</span>
                         </a>
                     </div>

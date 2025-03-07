@@ -73,14 +73,33 @@
                 <a href=" https://www.facebook.com/universe.mtravelstour" target="_blank">
                 <img class="mx-2" src="assets/images/facebook.png" alt="">
                 </a>
-                <a href="" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">
+                <div class="header-tooltip">
                     <img class="mx-2 ms-1" src="assets/images/line.png" alt="">
-                </a>
-                <a href="">
-                    <img class="mx-2" src="assets/images/wechat.png" alt="" class="ms-1">
-                </a>
-                <a href="https://join.skype.com/invite/sOqqdh5J35zs" target="_blank">
+                    <div class="tooltiptext shadow p-2">
+                        <a href="https://web.whatsapp.com/send/?phone=9595075165" target="_blank">
+                            <span>+95-9-5075165</span>
+                        </a>
+                        <a href="https://web.whatsapp.com/send/?phone=9595140571" target="_blank">
+                            <span>+95-9-5140571</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="header-tooltip">
+                    <img class="mx-2" src="assets/images/wechat.png" alt="">
+                    <div class="tooltiptext shadow p-2">
+                        <a href="https://weixin://contacts/profile/9595075165" target="_blank">
+                            <span>+95-9-5075165</span>
+                        </a>
+                        <a href="https://weixin://contacts/profile/9595140571" target="_blank">
+                            <span>+95-9-5140571</span>
+                        </a>
+                    </div>
+                </div>
+
+                <a href=" https://join.skype.com/invite/sOqqdh5J35zs" target="_blank">
                     <img class="mx-2" src="assets/images/skype.png" alt="" class="ms-1">
+
                 </a>
             </div>
         </div>
