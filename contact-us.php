@@ -43,8 +43,8 @@ include 'layout/layout.php';
             </div>
         </div>
         <div class="row ">
-            <div class="d-flex justify-content-center  mb-4">
-                <button type="button" id="submit-button" class="btn submit-button rounded-0" style="padding: 15px 30px;letter-spacing: 3px;">Send Message <img src="assets/images/arrow-up-right.png" alt=""></button>
+            <div class="d-flex justify-content-center  mb-4 text-uppercase poppins">
+                <button type="button" id="submit-button" class="btn submit-button rounded-0" style="padding: 6px 12px;letter-spacing: 3px;">Send Message <img src="assets/images/arrow-up-right.png" alt=""></button>
             </div>
         </div>
     </form>

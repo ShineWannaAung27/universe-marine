@@ -25,25 +25,25 @@
     </div>
 
 </div>
-<div class=" border-bottom  " style="margin-top: 5rem;">
+<div class="  " style="margin-top: 5rem;">
     <div class="container index-container">
         <div class="d-flex justify-content-center row ">
             <div class="col-lg-6 my-5">
                 <img class="img-fluid" src="assets/images/home-img1.png" alt="">
             </div>
             <div class="col-lg-6 my-5">
-                <p class="mb-3" style="color: #126DA6;font-weight: 600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>About of Company</p>
+                <p class="mb-3 text-uppercase poppins" style="color: #126DA6;font-weight: 600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>About of Company</p>
                 <p class="my-4 text-uppercase header-about custom-heading">Find and Book<br>
                     Your Dream</p>
                 <p style="font-weight: 500;font-size: 20px;color:#404040;">Universe Marine Myanmar Co.,Ltd has founded in 2005.</p>
-                <div style="color: #595959;font-weight: 400;font-size: 16px;line-height: 30px;">
+                <div class="" style="color: #595959;font-weight: 400;font-size: 16px;line-height: 30px;">
                     <p>
                         It has been registered, verified by SEAFARERS DIVISION (D.M.A), YANGON, MYANMAR  and  CLASS BV . Also It has been recognized by S.D (DMA) & CLASS ABS as SRPS  Provider since 21st November’ 2013.
                     </p>
                 </div>
                 <div class="row ">
-                    <div class="d-flex justify-content-start mb-4">
-                        <button type="button" id="submit-button" onclick="window.location.href='about-us.php';" class="btn rounded-0 submit-button text-uppercase" style="padding: 15px 30px;letter-spacing: 3px;">Read More <img src="assets/images/arrow-up-right.png" alt=""></button>
+                    <div class="d-flex justify-content-start mb-4 poppins">
+                        <button type="button" id="submit-button" onclick="window.location.href='about-us.php';" class="btn rounded-0 submit-button text-uppercase" style="padding:  6px 12px;letter-spacing: 3px;">Read More <img src="assets/images/arrow-up-right.png" alt=""></button>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
         <div class="container ">
             <div class="d-flex justify-content-center row">
                 <div class="col-lg-6 my-2">
-                    <p class="mb-3" style="color: #126DA6;font-weight:600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Service of Company</p>
+                    <p class="mb-3 text-uppercase" style="color: #126DA6;font-weight:600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Service of Company</p>
                     <p class="my-4 text-uppercase custom-heading" style="color: #1B378C;font-weight: 600;font-size: 26px;">
                         Know What You're
                         <br>
@@ -64,8 +64,8 @@
                             We provide crew management for various cruise ships starting from screening of crew personal from various sources, validity check for certificates, interview with potential candidates.
                         </p>
                     </div>
-                    <button type="button" id="submit-button" class="btn rounded-0 submit-button text-uppercase"
-                        style="padding: 15px 30px;letter-spacing: 3px;" onclick="window.location.href='services.php';">
+                    <button type="button" id="submit-button" class="btn rounded-0 submit-button text-uppercase poppins"
+                        style="padding:  6px 12px;letter-spacing: 3px;" onclick="window.location.href='services.php';">
                         Read More <img src="assets/images/arrow-up-right.png" alt="">
                     </button>
                 </div>
@@ -88,8 +88,8 @@
                 <div class="col-lg-3 my-2">
                     <a href="services-deck.php" class="text-decoration-none">
                         <div class="card home-service-card border border-0" style="width: auto;background-color: #F2F2F2;">
-                            <div class="text-center" style="font-size: 53px;">
-                                <i class="fa-solid fa-ship"></i>
+                            <div class="text-center">
+                                <img src="assets/images/services2.png" alt="">
                             </div>
                             <div class="card-body pt-1">
                                 <div class="text-center px-5 text-uppercase custom-heading">
@@ -102,8 +102,8 @@
             </div>
         </div>
     </div>
-    <div class="container index-container">
-        <p class=" d-flex justify-content-center mb-0" style="color: #126DA6;font-weight: 600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Gallery of Company</p>
+    <div class="container index-container border-bottom">
+        <p class="text-uppercase d-flex justify-content-center mb-0" style="color: #126DA6;font-weight: 600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Gallery of Company</p>
         <div class=" d-flex justify-content-center row my-md-3 ">
             <div class="col-md-4">
                 <img
@@ -124,9 +124,9 @@
                     alt="Boat on Calm Water" />
             </div>
         </div>
-        <div class=" d-flex justify-content-center mt-3 mb-5">
+        <div class=" d-flex justify-content-center mt-3 mb-5 poppins">
             <button type="button" id="submit-button" class="btn rounded-0 submit-button text-uppercase"
-                style="padding: 15px 30px;letter-spacing: 3px;" onclick="window.location.href='gallery.php';">
+                style="padding:  6px 12px;letter-spacing: 3px;" onclick="window.location.href='gallery.php';">
                 Read More <img src="assets/images/arrow-up-right.png" alt="">
             </button>
         </div>

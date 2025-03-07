@@ -47,7 +47,7 @@ include 'layout/layout.php';
     <!-- Nav Tabs -->
     <ul class="d-flex justify-content-center nav nav-tabs about-us custom-heading" id="myTab" role="tablist" style="border-bottom: 0px;">
         <li class="nav-item" role="presentation">
-            <button class="nav-link active text-uppercase" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab">Object</button>
+            <button class="nav-link active text-uppercase" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab">Objective</button>
         </li>
         <li class="nav-item" role="presentation">
             <button class="nav-link text-uppercase" id="profile-tab" data-bs-toggle="tab" data-bs-target="#object" type="button" role="tab">Policy</button>

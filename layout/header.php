@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap" async defer></script>
     <link
@@ -22,6 +23,10 @@
 
         .custom-heading {
             font-family: 'Roboto Slab', serif;
+        }
+
+        .poppins {
+            font-family: 'Poppins', sans-serif;
         }
     </style>
 </head>
@@ -82,7 +87,7 @@
                 </button> -->
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse " id="navbarNavDropdown">
-                    <ul class=" navbar-nav me-auto mb-2 mb-lg-0 ml-5 text-uppercase">
+                    <ul class=" navbar-nav me-auto mb-2 mb-lg-0 ml-5 text-uppercase poppins">
                         <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="index.php"> &nbsp;&nbsp;Home</a></li>
                         <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="about-us.php"> &nbsp;&nbsp;About Us</a></li>
                         <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="services.php"> &nbsp;&nbsp;services</a></li>

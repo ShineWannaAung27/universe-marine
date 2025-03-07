@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="col col-lg-3 col-12 text-center my-3">
+        <div class="col col-lg-3 col-12 text-lg-center text-start my-3">
             <p style="color: #126DA6;font-size: 24px;font-weight: 600;">
                 LINKS
             </p>
@@ -58,7 +58,7 @@
                 </a>
             </div>
             <div class="mb-2">
-                <a href="contact-us.php" class="link-offset-2 link-underline link-underline-opacity-0 ps-3" style="color: #767676;">
+                <a href="contact-us.php" class="link-offset-2 link-underline link-underline-opacity-0 ps-lg-3 text-start ps-0" style="color: #767676;">
                     Contact Us
                 </a>
             </div>
