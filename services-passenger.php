@@ -1,6 +1,6 @@
 <?php
 $title = "Services";
-$subtitle = "Syllabus For Gallery Rating";
+$subtitle = "Syllabus For All Passenger Crews";
 
 include 'layout/header.php';
 include 'layout/layout.php';

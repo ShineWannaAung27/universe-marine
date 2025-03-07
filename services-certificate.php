@@ -12,7 +12,7 @@ include 'layout/layout.php';
             Certification of MLC 2006
         </p>
     </div>
-    <div class="row g-3 mt-5">
+    <div class="row g-3 my-5">
         <div class="col-md-4 col-sm-6 service-certificate-image">
             <img src="assets/images/c1.png" class="img-fluid" alt="Certificate 1">
         </div>

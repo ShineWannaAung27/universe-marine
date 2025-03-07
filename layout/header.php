@@ -28,7 +28,7 @@
 
 <body>
     <div class="sticky-top" style="background-color: white;">
-        <div class="container d-flex justify-content-between py-1">
+        <div class="container container-padding  d-flex justify-content-between py-1">
             <div class="d-flex align-items-center">
                 <img class="header-image" src="assets/images/icon.png" alt="">
                 <img src="assets/images/name.png" alt="" class="ms-1 header-image">

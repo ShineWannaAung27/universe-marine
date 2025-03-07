@@ -17,7 +17,7 @@ include 'layout/layout.php';
     </div>
     <div class="my-5 d-flex  justify-content-center">
         <div class="" style="width: 32%;">
-            <input type="text" class="form-control" placeholder="RO-RO PASSENGER AND GENERAL CARGO)" aria-label="RO-RO PASSENGER AND GENERAL CARGO)" aria-describedby="basic-addon2">
+            <input type="text" class="form-control" placeholder="LPG CARRIER TANKER" aria-label="LPG CARRIER TANKER" aria-describedby="basic-addon2">
         </div>
         <div class="dropdown">
             <button type="button" id="btn-click" style="background-color: #126DA6;color: #D9D9D9;" class="btn" data-bs-toggle="dropdown">

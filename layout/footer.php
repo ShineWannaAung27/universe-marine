@@ -1,9 +1,9 @@
-<section class="container  text-center mt-4">
+<section class="container container-padding  text-center mt-4">
     <div class="row py-5">
-        <div class="col col-lg-3 col-12 text-center">
+        <div class="col col-lg-3 col-12 text-lg-start text-center">
             <img src="assets/images/footer-icon.png" alt="">
         </div>
-        <div class="col col-lg-3 col-12 text-center">
+        <div class="col col-lg-3 col-12 text-center my-3">
             <p style="color: #126DA6;font-size: 24px;font-weight: 600;">
                 CONTACT US
             </p>
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="col col-lg-3 col-12 text-center">
+        <div class="col col-lg-3 col-12 text-center my-3">
             <p style="color: #126DA6;font-size: 24px;font-weight: 600;">
                 LINKS
             </p>
@@ -63,7 +63,7 @@
                 </a>
             </div>
         </div>
-        <div class="col col-lg-3 col-12 text-center">
+        <div class="col col-lg-3 col-12 text-lg-end text-center my-3">
             <div class="d-flex justify-content-center align-items-center">
                 <img class="mx-3" src="assets/images/logo 02.png" alt="">
                 <img class="mx-3" src="assets/images/logo 01.png" alt="">
@@ -89,7 +89,6 @@
 </body>
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script>
-    
     function initMap() {
         var location = {
             lat: 16.77306193546069,
@@ -107,8 +106,6 @@
             title: "Universe Marine!"
         });
     }
-
-    
 </script>
 
 </html>
