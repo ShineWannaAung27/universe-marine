@@ -123,7 +123,7 @@ include 'layout/layout.php';
             <div class="text-start col-12 col-lg-6">
                 <p>Name of Crew: ________________</p>
             </div>
-            <div class="text-start col-12 col-lg-6">
+            <div class="text-lg-end text-start col-12 col-lg-6">
                 <p>CDC No: ________________</p>
             </div>
         </div>
@@ -131,7 +131,7 @@ include 'layout/layout.php';
             <div class="text-start col-12 col-lg-6">
                 <p>Rank: ________________</p>
             </div>
-            <div class="text-start col-12 col-lg-6">
+            <div class="text-lg-end text-start col-12 col-lg-6">
                 <p>Date: ________________</p>
             </div>
         </div>
@@ -290,4 +290,4 @@ include 'layout/layout.php';
 
     </div>
 </div>
-    <?php include 'layout/footer.php'; ?>
+<?php include 'layout/footer.php'; ?>

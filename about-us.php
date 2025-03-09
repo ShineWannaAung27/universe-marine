@@ -9,7 +9,7 @@ include 'layout/layout.php';
         <div class="col-12 col-lg-6">
             <p class="mb-0" style="color: #8C8C8C;font-weight: 500;font-size: 20px;">Summary of</p>
             <p class="mb-3 text-uppercase custom-heading" style="color: #0F9FBF;font-weight: 400;font-size: 26px;">Our Company</p>
-            <div style="color: #595959;font-weight: 400;font-size: 17px;line-height: 30px;">
+            <div style="line-height: 30px;">
                 <p class="mb-3 " >
                     Our company has founded in 2005. It has been registered, verified by SEAFARERS DIVISION (D.M.A), YANGON, MYANMAR  and  CLASS BV . Also It has been recognized by S.D (DMA) & CLASS ABS as SRPS  Provider since 21st November’ 2013. We have changed the classification society from class BV to ABS on 24th, April, 2018 for verification of quality management system (ISO 9001-2015) and SRPS. We have recruited Seamen in various ranks and arranged to be employed on board with ( 3 )overseas shipping companies currently and they (Our Principals) are as follows:
                 </p>
@@ -29,8 +29,8 @@ include 'layout/layout.php';
             <img class="img-fluid" src="assets/images/about-us-2.png" alt="">
         </div>
         <div class=" col-12 col-lg-6">
-            <p class="mb-3" style="color: #595959;font-weight: 600;font-size: 20px;">Our previous principals are stated as followings:</p>
-            <div style="color: #595959;font-weight: 400;font-size: 17px;line-height: 30px;">
+            <p class="mb-3" style="font-weight: 600;font-size: 20px;">Our previous principals are stated as followings:</p>
+            <div style="line-height: 30px;">
 
                 <ul class="ps-3 text-lowercase list-unstyled">
                     <li class="mb-2 "><span class="pe-4">-</span> SUN RISING SHIPPMANAGEMENT CO., LTD – CHINA (G.C, BULK, TANKER VESSELS)</li>
@@ -57,7 +57,7 @@ include 'layout/layout.php';
 
     <!-- Tab Content -->
     <div class="tab-content mt-3" id="myTabContent">
-        <div class="tab-pane fade show active py-3 mt-4 my-5" id="home" role="tabpanel" style="font-weight: 400;font-size: 16px;color: #595959;">
+        <div class="tab-pane fade show active py-3 mt-4 my-5" id="home" role="tabpanel" style="">
             <ol class="ps-3 text-lowercase">
                 <li>
                     TO  ENSURE  SAFE  OPERATION  WITH  ZERO-ACCIDENT
@@ -72,7 +72,7 @@ include 'layout/layout.php';
             <p class="text-lowercase">
                 COMPANY  SHALL, ON THE  BASIS  OF  THESE  OBJECTIVE, PROMOTE THE BENEFIT OF COMPANY AND PERSONNEL  AS  A WHOLE  BY  ACHIEVING  THE  CUSTOMERS’  SATISFACTION  ON  SAFETY  AND  QUALITY.</p>
         </div>
-        <div class="tab-pane fade py-3 mt-4 my-5" id="object" role="tabpanel" style="font-weight: 400;font-size: 16px;color: #595959;line-height: 30px;">
+        <div class="tab-pane fade py-3 mt-4 my-5" id="object" role="tabpanel" style="line-height: 30px;">
             <ol class="ps-3 text-lowercase">
                 <li>
                     THE  FOLLOWING ARE  DESCRIBED  AS  OUR  POLICY  IN  ORDER  TO  ACHIEVE  THE  GOAL  OF  THE  COMPANY.

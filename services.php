@@ -8,7 +8,7 @@ include 'layout/layout.php';
 <div class="container border-bottom container-padding">
     <div class="row my-5 grid column-gap-6 ">
         <div class="col-12 col-lg-6">
-            <div style="color: #595959;font-weight: 400;font-size: 17px;line-height: 30px;">
+            <div style="font-weight: 400;line-height: 30px;">
                 <p class="mb-1" style="text-align: left;">
                     Our crews are eligible and qualified with IMO approved Certificates and most seamen had adequate sea service.
                 </p>
@@ -30,7 +30,7 @@ include 'layout/layout.php';
         </div>
     </div>
     <div class="col-12 my-5">
-        <div style="color: #595959;font-weight: 400;font-size: 17px;line-height: 30px;">
+        <div style="font-weight: 400;line-height: 30px;">
             <p class="mb-1" style="text-align: left;">
                 Certificates to be hold relating with their ranks.
             </p>
@@ -47,7 +47,7 @@ include 'layout/layout.php';
         </div>
     </div>
 
-    <div class="row g-3 my-5">
+    <div class="row g-3 my-5 custom-heading" style="font-size: 1.5rem;">
         <div class="col-md-4">
             <a href="services-certificate.php" class="text-decoration-none">
                 <div class="card service-card border border-0" style="width: auto;background-color: #D9D9D9;">
@@ -59,7 +59,7 @@ include 'layout/layout.php';
 
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading ">
+                        <div class="text-center px-5 mt-2 ">
                             CERTIFICATION OF
                             MLC 2006
                         </div>
@@ -77,7 +77,7 @@ include 'layout/layout.php';
 
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading">
+                        <div class="text-center px-5 mt-2">
                             SYLLABUS FOR DECK DEPARTMENT
                         </div>
                     </div>
@@ -95,7 +95,7 @@ include 'layout/layout.php';
                         <img src="assets/images/crew.png" alt="">
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading">
+                        <div class="text-center px-5 mt-2">
                             SYLLABUS FOR JUNIORS AND ENGINERATING
                         </div>
                     </div>
@@ -114,7 +114,7 @@ include 'layout/layout.php';
 
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading">
+                        <div class="text-center px-5 mt-2">
                             SYLLABUS FOR GALLEY RATING
                         </div>
                     </div>
@@ -131,7 +131,7 @@ include 'layout/layout.php';
 
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading">
+                        <div class="text-center px-5 mt-2">
                             SYLLABUS FOR ALL PASSENGER CREWS
                         </div>
                     </div>
@@ -148,7 +148,7 @@ include 'layout/layout.php';
 
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading">
+                        <div class="text-center px-5 mt-2">
                             PRE-DEPARTURE ORIENTATION SEMINAR COMPLETION CERTIFICATE
                         </div>
                     </div>
@@ -167,7 +167,7 @@ include 'layout/layout.php';
 
                     </div>
                     <div class="card-body pt-1">
-                        <div class="text-center px-5 custom-heading">
+                        <div class="text-center px-5 mt-2">
                             PAY SKILLS FOR VARIOUS VESSEL
                         </div>
                     </div>

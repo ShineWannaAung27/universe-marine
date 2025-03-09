@@ -1,3 +1,18 @@
+body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 1rem;
+    color:#595959;
+    font-weight: 400;
+}
+
+.custom-heading {
+    font-family: 'Roboto Slab', serif !important;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif !important;
+}
+
 .text-overlay {
     position: absolute;
     width: 83%;
@@ -14,8 +29,17 @@
     width: 100%;
 }
 
+.index-main-headers{
+    color: #126DA6;
+    font-weight:600;
+    font-size: 1.25rem;
+    letter-spacing: 2px;
+}
+
 .header-about{
-    color: #1B378C;font-weight: 600;font-size: 26px;width: 50%;
+    color: #1B378C;font-weight: 600;
+    font-size: 1.625rem;
+    width: 50%;
 }
 
 .carousel-inner {

@@ -32,11 +32,11 @@
                 <img class="img-fluid" src="assets/images/home-img1.png" alt="">
             </div>
             <div class="col-lg-6 my-5">
-                <p class="mb-3 text-uppercase poppins" style="color: #126DA6;font-weight: 600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>About of Company</p>
+                <p class="mb-3 text-uppercase poppins index-main-headers" ><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>About of Company</p>
                 <p class="my-4 text-uppercase header-about custom-heading">Find and Book<br>
                     Your Dream</p>
                 <p style="font-weight: 500;font-size: 20px;color:#404040;">Universe Marine Myanmar Co.,Ltd has founded in 2005.</p>
-                <div class="" style="color: #595959;font-weight: 400;font-size: 16px;line-height: 30px;">
+                <div class="" style="font-weight: 400;line-height: 30px;">
                     <p>
                         It has been registered, verified by SEAFARERS DIVISION (D.M.A), YANGON, MYANMAR  and  CLASS BV . Also It has been recognized by S.D (DMA) & CLASS ABS as SRPS  Provider since 21st November’ 2013.
                     </p>
@@ -53,13 +53,13 @@
         <div class="container ">
             <div class="d-flex justify-content-center row">
                 <div class="col-lg-6 my-2">
-                    <p class="mb-3 text-uppercase" style="color: #126DA6;font-weight:600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Service of Company</p>
-                    <p class="my-4 text-uppercase custom-heading" style="color: #1B378C;font-weight: 600;font-size: 26px;">
+                    <p class="mb-3 text-uppercase index-main-headers"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Service of Company</p>
+                    <p class="my-4 text-uppercase header-about custom-heading" style="">
                         Know What You're
                         <br>
                         Looking for?
                     </p>
-                    <div style="color: #595959;font-weight: 400;font-size: 16px;line-height: 30px;">
+                    <div style="font-weight: 400;line-height: 30px;">
                         <p>
                             We provide crew management for various cruise ships starting from screening of crew personal from various sources, validity check for certificates, interview with potential candidates.
                         </p>
@@ -103,7 +103,7 @@
         </div>
     </div>
     <div class="container index-container border-bottom">
-        <p class="text-uppercase d-flex justify-content-center mb-0" style="color: #126DA6;font-weight: 600;font-size: 20px;letter-spacing: 2px;"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Gallery of Company</p>
+        <p class="text-uppercase d-flex justify-content-center mb-0 index-main-headers"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>Gallery of Company</p>
         <div class=" d-flex justify-content-center row my-md-3 ">
             <div class="col-md-4">
                 <img

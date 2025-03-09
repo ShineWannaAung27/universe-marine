@@ -32,10 +32,10 @@ include 'layout/layout.php';
     </div>
 
     <div class="mb-5 overflow-auto text-center">
-        <!-- <a href="assets/images/service-skill1.png" target="_blank" rel="noopener noreferrer">
+        <a href="assets/images/service-skill1.png" target="_blank" rel="noopener noreferrer">
             <img src="assets/images/service-skill1.png" class="service-table" alt="" >
-        </a> -->
-        <table class="table table-bordered border-dark text-center">
+        </a>
+        <!-- <table class="table table-bordered border-dark text-center">
             <tr class="text-uppercase">
                 <th>No</th>
                 <th>Rank</th>
@@ -269,7 +269,7 @@ include 'layout/layout.php';
                     <p class="ms-3">Maning feesperhead / permonth</p>
                 </li>
             </ol>
-        </div>
+        </div> -->
     </div>
 
 </div>
