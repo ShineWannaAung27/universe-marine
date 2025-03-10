@@ -49,8 +49,8 @@ body {
 
 .header-about{
     color: #1B378C;font-weight: 600;
-    font-size: 1.625rem;
-    width: 50%;
+    font-size: 2.5rem;
+    width: 80%;
 }
 
 .carousel-inner {
@@ -210,7 +210,7 @@ body {
 }
 @media(max-width: 768px){
     .home-service {
-        padding: 5rem 1rem; /* Reduce padding to prevent overflow */
+        /* padding: 5rem 1rem;  */
     }
     .home-margin{
         margin-left: 2rem;

@@ -94,11 +94,11 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse " id="navbarNavDropdown">
                     <ul class=" navbar-nav me-auto mb-2 mb-lg-0 ml-5 text-uppercase poppins">
-                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="index.php"> &nbsp;&nbsp;Home</a></li>
-                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="about-us.php"> &nbsp;&nbsp;About Us</a></li>
-                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="services.php"> &nbsp;&nbsp;services</a></li>
-                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="gallery.php"> &nbsp;&nbsp;Gallery</a></li>
-                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;" href="contact-us.php"> &nbsp;&nbsp;Contact Us</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;font-size: 1.125rem;" href="index.php"> &nbsp;&nbsp;Home</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;font-size: 1.125rem;" href="about-us.php"> &nbsp;&nbsp;About Us</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;font-size: 1.125rem;" href="services.php"> &nbsp;&nbsp;services</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;font-size: 1.125rem;" href="gallery.php"> &nbsp;&nbsp;Gallery</a></li>
+                        <li class="nav-item mx-4"><a class="nav-link nav-custom" style="color: white !important;font-size: 1.125rem;" href="contact-us.php"> &nbsp;&nbsp;Contact Us</a></li>
                     </ul>
                 </div>
             </div>
