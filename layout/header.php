@@ -7,6 +7,8 @@
     <title>Universe Marine</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon.png">
+    <link rel="shortcut icon" href="../assets/images/favicon.png">
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -35,8 +37,12 @@
     <div class="sticky-top" style="background-color: white;">
         <div class="container container-padding  d-flex justify-content-between py-1">
             <div class="d-flex align-items-center">
-                <img class="header-image" src="assets/images/icon.png" alt="">
-                <img src="assets/images/name.png" alt="" class="ms-1 header-image">
+                <a href="index.php">
+                    <img class="header-image" src="assets/images/icon.png" alt="">
+                </a>
+                <a href="index.php">
+                    <img src="assets/images/name.png" alt="" class="ms-1 header-image mobile-hide">
+                </a>
 
             </div>
             <button class=" navbar-toggler-top" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

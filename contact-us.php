@@ -10,7 +10,7 @@ include 'layout/layout.php';
         <div class="col-12 col-lg-6">
             <!-- <div id="map"></div> -->
             <div class="ratio ratio-16x9">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3820.074484119124!2d96.16510927515114!3d16.772969484013256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sen!2sth!4v1741148610493!5m2!1sen!2sth" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3820.093473442456!2d96.1664839!3d16.7720245!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1edf861903d21%3A0xec7e19ace0a70525!2sUniverse%20Marine%20(Myanmar)%20Services%20Co.%2CLtd.!5e0!3m2!1sen!2sth!4v1741574503074!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
         <div class="contact-info" style="font-weight: 400;color: #6E6E6E;">
@@ -25,26 +25,28 @@ include 'layout/layout.php';
                 universemarine45@gmail.com,thantunaung9449@gmail.com,phuephue08@gmail.com
         </div>
     </div>
-    <form class="" style="margin-bottom: 5rem;">
+    <form id="contact-form" style="margin-bottom: 5rem;">
         <div class="row">
             <div class="col-12 col-lg-4 mb-4">
-                <input class="form-control" type="text" id="name" placeholder="Your Name*" aria-label="default input example">
+                <input class="form-control" type="text" id="user_name" placeholder="Your Name*" aria-label="default input example">
             </div>
             <div class="col-12 col-lg-4 mb-4">
-                <input class="form-control" type="text" id="name" placeholder="Phone*" aria-label="default input example">
+                <input class="form-control" type="text" id="phone" placeholder="Phone*" aria-label="default input example">
             </div>
             <div class="col-12 col-lg-4 mb-4">
-                <input class="form-control" type="text" id="name" placeholder="Email*" aria-label="default input example">
+                <input class="form-control" type="text" id="email" placeholder="Email*" aria-label="default input example">
             </div>
         </div>
         <div class="row">
             <div class="col-12 mb-4">
-                <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message*" rows="5"></textarea>
+                <textarea class="form-control" id="message" placeholder="Message*" rows="5"></textarea>
             </div>
         </div>
-        <div class="row ">
-            <div class="d-flex justify-content-center  mb-4 text-uppercase poppins">
-                <button type="button" id="submit-button" class="btn submit-button rounded-0" style="padding: 6px 12px;letter-spacing: 3px;">Send Message <img src="assets/images/arrow-up-right.png" alt=""></button>
+        <div class="row">
+            <div class="d-flex justify-content-center mb-4 text-uppercase poppins">
+                <button type="button" id="submit-button" class="btn submit-button rounded-0" style="padding: 6px 12px;letter-spacing: 3px;">
+                    Send Message <img src="assets/images/arrow-up-right.png" alt="">
+                </button>
             </div>
         </div>
     </form>

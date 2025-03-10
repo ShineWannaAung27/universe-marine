@@ -11,7 +11,7 @@
                 <div class="d-flex align-items-start">
                     <img src="assets/images/location.png" alt="" class="pb-3">
                 </div>
-                <div class="ms-3 text-start" style="color:#6E6E6E;font-weight: 400; font-size: 14px;">
+                <div class="ms-3 text-start" style="color:#6E6E6E;font-weight: 400; ">
                     No.(15/17), 2nd floor, 45th Street, Bo Ta Htaung Township, Yangon, Myanmar
                 </div>
             </div>
@@ -19,7 +19,7 @@
                 <div class="d-flex align-items-start">
                     <img src="assets/images/phone.png" alt="" class="pb-3">
                 </div>
-                <div class="ms-3 text-start" style="color:#6E6E6E;font-weight: 400; font-size: 14px;">
+                <div class="ms-3 text-start" style="color:#6E6E6E;">
                     09-5140571, 09-5075165,
                     09-250025646, 09-955075165
                 </div>
@@ -28,9 +28,11 @@
                 <div class="d-flex align-items-start">
                     <img src="assets/images/mail.png" alt="" class="pb-3">
                 </div>
-                <div class="ms-3 text-start" style="color:#6E6E6E;font-weight: 400; font-size: 14px;">
-                    universemarine45@gmail.com, thantunaung9449@gmail.com, phuephue08@gmail.com
-                </div>
+                <p class="ms-3 text-start text-break" style="color:#6E6E6E;">
+                    universemarine45@gmail.com,
+                    thantunaung9449@gmail.com,
+                    phuephue08@gmail.com
+                </p>
             </div>
         </div>
         <div class="col col-lg-3 col-12 text-lg-center text-start my-3">
@@ -125,6 +127,35 @@
             title: "Universe Marine!"
         });
     }
+
+    document.getElementById("submit-button").addEventListener("click", function() {
+        let name = document.getElementById("user_name").value;
+        let phone = document.getElementById("phone").value;
+        let email = document.getElementById("email").value;
+        let message = document.getElementById("message").value;
+
+        // Basic validation
+        if (name === "" || phone === "" || email === "" || message === "") {
+            alert("Please fill in all fields.");
+            return;
+        }
+
+        let formData = new FormData();
+        formData.append("name", name);
+        formData.append("phone", phone);
+        formData.append("email", email);
+        formData.append("message", message);
+
+        fetch("send_mail.php", {
+                method: "POST",
+                body: formData
+            })
+            .then(response => response.text())
+            .then(data => {
+                alert(data);
+            })
+            .catch(error => console.error("Error:", error));
+    });
 </script>
 
 </html>

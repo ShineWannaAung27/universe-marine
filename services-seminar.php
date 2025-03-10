@@ -213,8 +213,8 @@ include 'layout/layout.php';
                                     </ul>
                                 </div>
                             </div>
-                        <td></td>
-                        </td>
+                        <td>
+                        
                     </tr>
                 </tbody>
             </table>

@@ -32,10 +32,10 @@
                 <img class="img-fluid" src="assets/images/home-img1.png" alt="">
             </div>
             <div class="col-lg-6 my-5">
-                <p class="mb-3 text-uppercase poppins index-main-headers" ><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>About of Company</p>
+                <p class="mb-3 text-uppercase poppins index-main-headers"><img src="assets/images/anchor.png" alt="" class="me-3 mb-2"></i>About of Company</p>
                 <p class="my-4 text-uppercase header-about custom-heading">Find and Book<br>
                     Your Dream</p>
-                <p style="font-weight: 500;font-size: 20px;color:#404040;">Universe Marine Myanmar Co.,Ltd has founded in 2005.</p>
+                <p style="font-weight: 500;font-size: 1.25rem;color:#404040;">Universe Marine Myanmar Co.,Ltd has founded in 2005.</p>
                 <div class="" style="font-weight: 400;line-height: 30px;">
                     <p>
                         It has been registered, verified by SEAFARERS DIVISION (D.M.A), YANGON, MYANMAR  and  CLASS BV . Also It has been recognized by S.D (DMA) & CLASS ABS as SRPS  Provider since 21st November’ 2013.
