@@ -43,7 +43,7 @@
                 </div>
                 <div class="row ">
                     <div class="d-flex justify-content-start mb-4 poppins">
-                        <button type="button" id="submit-button" onclick="window.location.href='about-us.php';" class="btn rounded-0 submit-button text-uppercase" style="padding:  6px 12px;letter-spacing: 3px;">Read More <img src="assets/images/arrow-up-right.png" alt=""></button>
+                        <button type="button" id="submit-button" onclick="window.location.href='about-us.php';" class="btn rounded-0 submit-button text-uppercase" style="padding:  12px 18px;letter-spacing: 3px;">Read More <img src="assets/images/arrow-up-right.png" alt=""></button>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                         </p>
                     </div>
                     <button type="button" id="submit-button" class="btn rounded-0 submit-button text-uppercase poppins"
-                        style="padding:  6px 12px;letter-spacing: 3px;" onclick="window.location.href='services.php';">
+                        style="padding:  12px 18px;letter-spacing: 3px;" onclick="window.location.href='services.php';">
                         Read More <img src="assets/images/arrow-up-right.png" alt="">
                     </button>
                 </div>
@@ -126,7 +126,7 @@
         </div>
         <div class=" d-flex justify-content-center mt-3 mb-5 poppins">
             <button type="button" id="submit-button" class="btn rounded-0 submit-button text-uppercase"
-                style="padding:  6px 12px;letter-spacing: 3px;" onclick="window.location.href='gallery.php';">
+                style="padding:  12px 18px;letter-spacing: 3px;" onclick="window.location.href='gallery.php';">
                 Read More <img src="assets/images/arrow-up-right.png" alt="">
             </button>
         </div>

@@ -4,30 +4,24 @@
             <img src="assets/images/footer-icon.png" alt="">
         </div>
         <div class="col col-lg-3 col-12 text-center my-3">
-            <p style="color: #126DA6;font-size: 24px;font-weight: 600;">
+            <p style="color: #126DA6;font-size: 24px;font-weight: 600;" class="text-start">
                 CONTACT US
             </p>
             <div class="d-flex justify-content-between align-items-center w-100 mb-4">
-                <div class="d-flex align-items-start">
-                    <img src="assets/images/location.png" alt="" class="pb-3">
-                </div>
-                <div class="ms-3 text-start" style="color:#6E6E6E;font-weight: 400; ">
+                <img src="assets/images/location.png" alt="" class="align-self-start">
+                <div class="ms-3 text-start" style="color:#6E6E6E; font-weight: 400;">
                     No.(15/17), 2nd floor, 45th Street, Bo Ta Htaung Township, Yangon, Myanmar
                 </div>
             </div>
             <div class="d-flex justify-content-between align-items-center w-100 mb-4">
-                <div class="d-flex align-items-start">
-                    <img src="assets/images/phone.png" alt="" class="pb-3">
-                </div>
+                <img src="assets/images/phone.png" alt="" class="align-self-start">
                 <div class="ms-3 text-start" style="color:#6E6E6E;">
                     09-5140571, 09-5075165,
                     09-250025646, 09-955075165
                 </div>
             </div>
             <div class="d-flex justify-content-between align-items-center w-100">
-                <div class="d-flex align-items-start">
-                    <img src="assets/images/mail.png" alt="" class="pb-3">
-                </div>
+                <img src="assets/images/mail.png" alt="" class="align-self-start">
                 <p class="ms-3 text-start text-break" style="color:#6E6E6E;">
                     universemarine45@gmail.com,
                     thantunaung9449@gmail.com,
