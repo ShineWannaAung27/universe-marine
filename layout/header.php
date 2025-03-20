@@ -40,8 +40,23 @@
                 <a href="index.php">
                     <img class="header-image" src="assets/images/icon.png" alt="">
                 </a>
-                <a href="index.php">
-                    <img src="assets/images/name.png" alt="" class="ms-1 header-image mobile-hide">
+                <a href="index.php" class="ms-3 link-underline link-underline-opacity-0">
+                    <!-- <img src="assets/images/name.png" alt="" class="ms-1 header-image mobile-hide"> -->
+                    <div class="mobile-hide">
+                        <p class="mb-0" style="
+                        font-weight: 800;
+                        font-size: 1.1rem;
+                        color: #071091;
+                        letter-spacing: -0.5px;
+                        ">
+                            UNIVERSE MARINE (Myanmar)</p>
+                        <p style="
+                        font-weight: 600;
+                        font-size: 1rem;
+                        color: #071091;
+                        letter-spacing: -0.5px;
+                        " class="mb-0 text-center"> SERVICES CO., LTD </p>
+                    </div>
                 </a>
 
             </div>
@@ -57,10 +72,10 @@
                 <div class="header-tooltip">
                     <img class="mx-2 ms-1" src="assets/images/line.png" alt="">
                     <div class="tooltiptext shadow p-2">
-                        <a href="https://web.whatsapp.com/send/?phone=9595075165" target="_blank">
+                        <a href="https://wa.me/9595075165" target="_blank">
                             <span>+95-9-5075165</span>
                         </a>
-                        <a href="https://web.whatsapp.com/send/?phone=9595140571" target="_blank">
+                        <a href="https://wa.me/9595140571" target="_blank">
                             <span>+95-9-5140571</span>
                         </a>
                     </div>
@@ -69,10 +84,10 @@
                 <div class="header-tooltip">
                     <img class="mx-2" src="assets/images/wechat.png" alt="">
                     <div class="tooltiptext shadow p-2">
-                        <a href="https://weixin://contacts/profile/9595075165" target="_blank">
+                        <a href="https://weixin.qq.com/r/9595075165" target="_blank">
                             <span>+95-9-5075165</span>
                         </a>
-                        <a href="https://weixin://contacts/profile/9595140571" target="_blank">
+                        <a href="https://weixin.qq.com/r/9595140571" target="_blank">
                             <span>+95-9-5140571</span>
                         </a>
                     </div>
